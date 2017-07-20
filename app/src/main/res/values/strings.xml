@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <!--this string array is used to display values in the drop down list of spinner-->
+    <string-array name="todo_array">
+        <item>School</item>
+        <item>Work</item>
+        <item>Family</item>
+        <item>Finance</item>
+    </string-array>
+</resources>
